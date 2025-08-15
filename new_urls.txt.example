@@ -1,0 +1,10 @@
+# Example new_urls.txt file for findAndDownload.py
+# Add one webpage URL per line
+# The script will extract image URLs from these pages and download them
+
+https://www.vatican.va/news_services/press/photo/2023/01/example1.html
+https://www.vatican.va/news_services/press/photo/2023/01/example2.html
+https://www.vatican.va/news_services/press/photo/2023/01/example3.html
+
+# Remove the # comments and replace with your actual webpage URLs
+# This script is designed for Vatican Media photo pages but can be customized

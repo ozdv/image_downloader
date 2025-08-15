@@ -1,0 +1,9 @@
+# Example urls.txt file for bulkDownload.py
+# Add one image URL per line
+# The script will automatically resize images from 188x188 to 1000x750
+
+https://example.com/image1.jpg?fit=188x188
+https://example.com/image2.jpg?fit=188x188
+https://example.com/image3.jpg?fit=188x188
+
+# Remove the # comments and replace with your actual image URLs
